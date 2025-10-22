@@ -8,10 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Seyoung Won"
 title_separator          : "-"
 name                     : &name "Seyoung Won"
-description              : &description "Ph.D. candidate in Economics at University of Washington"
+description              : &description "Ph.D. candidate in Economics"
 url                      : https://seyoung-won.github.io/
 baseurl                  : 
 repository               : "https://seyoung-won.github.io/"
