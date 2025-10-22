@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-a 
-
-A data-driven personal website
+Section Title 1
 ======
-b
+a
 
-Getting started
-======
-c
 
-Site-wide configuration
+
+
+
+
+
 ------
