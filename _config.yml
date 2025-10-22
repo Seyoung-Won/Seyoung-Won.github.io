@@ -13,9 +13,9 @@ title                    : "Seyoung Won"
 title_separator          : "-"
 name                     : &name "Seyoung Won"
 description              : &description "Seyoung Won's website"
-url                      : https://seyoung-won.github.io/
+url                      : https://seyoung-won.github.io
 baseurl                  : ""
-repository               : "https://seyoung-won.github.io/"
+repository               : "https://seyoung-won.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
