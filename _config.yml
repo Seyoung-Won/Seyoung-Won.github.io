@@ -12,7 +12,7 @@ title                    : "Seyoung Won"
 title_separator          : "-"
 name                     : &name "Seyoung Won"
 description              : &description "personal description"
-url                      : https://seyoung-won.github.io/ # the base hostname & protocol for your site e.g. "https://seyoung-won.github.io/"
+url                      : "https://seyoung-won.github.io/" # the base hostname & protocol for your site e.g. "https://seyoung-won.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://seyoung-won.github.io/"
 
@@ -138,6 +138,7 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
