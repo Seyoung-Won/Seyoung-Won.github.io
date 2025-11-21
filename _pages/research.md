@@ -12,8 +12,8 @@ author_profile: true
 * "Climate Change and the US Macroeconomy: Time-Varying Parameter Approach with Stochastic Volatility"
 
     This paper studies
-
-
+  
+    Also available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616
 
 
 **Working Paper & Work in Progress**
