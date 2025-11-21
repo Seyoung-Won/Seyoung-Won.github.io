@@ -18,7 +18,7 @@ author_profile: true
 
 **Working Paper & Work in Progress**
 ---
-* "Climate Change and the US Macroeconomy: Time-Varying Parameter Approach with Stochastic Volatility"
+* "Global oil price and its impact on South Korean macroeconomy"
 
-* "Climate Change and the US Macroeconomy: Time-Varying Parameter Approach with Stochastic Volatility"
+* "Weather and large macroeconomics variables"
 
