@@ -15,7 +15,7 @@ author_profile: true
 
   It presents the evolution of the e ect of a climate change shock to the growth in in ation, industrial production output and unemployment across the periods 1975 to 2024. In ation responses dampen more rapidly yet the initial impact is larger lately, output growth decreases immediately after the climate shock and excerbates over time. Unemployment tends to have its re-hiring process disappeared later.
 
-Also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616" style="color:black; text-decoration:underline;">SSRN</a>
+    Also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616" style="color:black; text-decoration:underline;">SSRN</a>
 
 
 
