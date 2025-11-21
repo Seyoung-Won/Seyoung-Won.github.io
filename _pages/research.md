@@ -23,5 +23,7 @@ author_profile: true
 --
 * "Global oil price and its impact on South Korean macroeconomy"
 
+    This paper studies
+
 * "Weather and large macroeconomics variables"
 
