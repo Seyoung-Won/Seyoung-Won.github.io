@@ -14,7 +14,8 @@ author_profile: true
 
 **Teaching Assistant**
 ---
-- Investment, Capital and Finance (Winter 2025) \\
+- Investment, Capital and Finance (Winter 2025)
+
   Assistant to Prof. Ali Karamirad
   
 - Introduction to Macroeconomics (Autumn 2024)
