@@ -8,6 +8,7 @@ author_profile: true
 **Instructor**
 ---
 - Intermediate Microeconomics (Spring 2024, Winter 2024, Autumn 2023, Winter 2023)
+  <br> 
   
 - Introduction to Macroeconomics (Spring 2023)
 
