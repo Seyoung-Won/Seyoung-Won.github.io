@@ -1,3 +1,10 @@
+---
+title: ""
+collection: teaching
+type: "Workshop"
+permalink: /teaching/teaching.md
+---
+
 Teaching
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
