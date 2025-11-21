@@ -13,7 +13,7 @@ author_profile: true
 
 This paper supplements the study of Kim, Matthes and Phan (AEJ:Macro, 2025) by employing a vector autoregression model with time-varying coe cients so that the analysis about the impact of the climate change to the US macroeconomy is available for all periods of data, not just the start point and the end of the data periods.
 
-    Also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616" style="color:black; text-decoration:underline;">SSRN</a>
+Also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616" style="color:black; text-decoration:underline;">SSRN</a>
 
 
 
