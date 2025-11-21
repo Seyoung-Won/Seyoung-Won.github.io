@@ -9,9 +9,13 @@ author_profile: true
 
 **Job Market Paper**
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* "Climate Change and the US Macroeconomy: Time-Varying Parameter Approach with Stochastic Volatility"
+  - This paper studies
+
+
+
+
+**Working Paper & Work in Progress**
 
 Work experience
 ======
