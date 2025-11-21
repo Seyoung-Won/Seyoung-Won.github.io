@@ -19,7 +19,9 @@ author_profile: true
   Assistant to Prof. Ali Karamirad
   
 - Introduction to Macroeconomics (Autumn 2024)
+
     Assistant to Prof. Dennis O'Dea
   
 - Introduction to Microeconomics (Auyumn 2021, Spring 2021, Autumn 2020)
-    Assistant to Prof. Melissa Knox (2021) and Prof. Haideh Salehi-Esfahani (2020)
+
+  Assistant to Prof. Melissa Knox (2021) and Prof. Haideh Salehi-Esfahani (2020)
