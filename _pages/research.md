@@ -10,7 +10,7 @@ author_profile: true
 **Job Market Paper**
 
 * "Climate Change and the US Macroeconomy: Time-Varying Parameter Approach with Stochastic Volatility"
-  - This paper studies
+*   This paper studies
 
 
 
