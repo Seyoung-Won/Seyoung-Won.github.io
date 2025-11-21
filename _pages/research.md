@@ -13,8 +13,7 @@ author_profile: true
 
     This paper studies
   
-    Also available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616
-
+    Also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5210616" style="color:black;">SSRN</a>
 
 
 
