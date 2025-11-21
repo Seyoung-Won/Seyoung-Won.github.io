@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Title 3"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/teaching.md
