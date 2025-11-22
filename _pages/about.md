@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Welcome to my page!
+Welcome!
 
 I am a Ph.D. candidate in Economics at the University of Washington on the 2025-2026 job market. 
 
