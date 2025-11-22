@@ -22,9 +22,12 @@ author_profile: true
 
 **Working Paper & Work in Progress**
 --
-* "Global oil price and its impact on South Korean macroeconomy"
+* "Global Oil Price and its Impact on South Korean Macroeconomy"
 
     This paper studies the changing effects of the global oil change onto the South Korea macroeconomy. The initial oil price shock brings an increase in inflation, an increase in production and an increase in unemployment rate. Such effects have a variation in time such that the initial response of the production from the oil price shock drops from the year 2008 and it changes its sign to negative since 2014. 
 
 * "Weather and large macroeconomics variables"
 
+
+* "On Differentiation of Digital Duopoly With Heterogeneity in Values" (pre-doctoral research)
+    
