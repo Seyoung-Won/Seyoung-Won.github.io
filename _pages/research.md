@@ -29,5 +29,5 @@ author_profile: true
 * "Weather and large macroeconomics variables"
 
 
-* "On Differentiation of Digital Duopoly With Heterogeneity in Values" (pre-doctoral research)
+* ["On Differentiation of Digital Duopoly With Heterogeneity in Values" (pre-doctoral research)](/files/Seyoung_Won_Honours_Thesis.pdf)
     
